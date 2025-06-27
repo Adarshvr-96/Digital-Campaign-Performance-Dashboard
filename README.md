@@ -109,3 +109,12 @@ Overall, the digital marketing campaigns reached a wide audience with solid enga
 ---
 
 > 📁 This project was built using *Power BI* and includes advanced campaign-level insights using DAX measures like ROAS, CTR, CPA, CPC, and conversion rate.
+
+----
+
+## Contact
+For any queries, feel free to reach out at:
+- **Gmail**: adarshvr67@gmail.com
+- **GitHub**: https://github.com/Adarshvr-96
+- **LinkedIn**:https://www.linkedin.com/in/adarsh-vr96
+
