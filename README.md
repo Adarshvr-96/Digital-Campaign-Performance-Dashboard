@@ -1,7 +1,7 @@
 # 📊 Digital Campaign Performance Dashboard  
 *February 2021 | Built with Power BI*
 
-![Image](https://github.com/user-attachments/assets/fcc1333b-ed95-4912-af24-e40130bb7ab8)
+![Image](https://github.com/user-attachments/assets/635817f2-cf38-47ae-b93d-8ec7d328ab7c)
 
 This dashboard provides in-depth insights into digital marketing campaign performance across various channels and categories, helping marketers optimize spend, boost ROI, and identify key growth opportunities.
 
@@ -75,7 +75,7 @@ The dashboard visualizes and tracks metrics such as ROAS, CTR, CPA, CPC, clicks,
 
 ### 5. KPI Cards
 
-![Image](![Image](https://github.com/user-attachments/assets/8a7e8a83-ed12-4bfe-b7a7-534c5e88293c))
+![Image](https://github.com/user-attachments/assets/8a7e8a83-ed12-4bfe-b7a7-534c5e88293c)
 
 - Quick stats on revenue, impressions, clicks, CPC (₹10.2), CPA (₹3.8K), ROAS, and CTR.
 
@@ -117,4 +117,3 @@ For any queries, feel free to reach out at:
 - **Gmail**: adarshvr67@gmail.com
 - **GitHub**: https://github.com/Adarshvr-96
 - **LinkedIn**:https://www.linkedin.com/in/adarsh-vr96
-
