@@ -75,7 +75,7 @@ The dashboard visualizes and tracks metrics such as ROAS, CTR, CPA, CPC, clicks,
 
 ### 5. KPI Cards
 
-![Image](https://github.com/user-attachments/assets/0c47b0a6-432f-47e7-a7ab-f23a88592d54)
+![Image](![Image](https://github.com/user-attachments/assets/8a7e8a83-ed12-4bfe-b7a7-534c5e88293c))
 
 - Quick stats on revenue, impressions, clicks, CPC (₹10.2), CPA (₹3.8K), ROAS, and CTR.
 
